@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5e6ecf5-04ba-463d-a0df-1944438357e8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diagramacao_iPhone.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iPhone.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/iPhone/IPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/navegador/Navegador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/navegador/NavegadorInternet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reprodutor/RepodutorMusicial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reprodutor/Reprodutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/telefone/AparelhoTelefonico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/telefone/Telefone.java" afterDir="false" />
-    </list>
+    <list default="true" id="a5e6ecf5-04ba-463d-a0df-1944438357e8" name="Changes" comment="Projeto_Finalizado" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,6 +86,15 @@
       <option name="presentableId" value="Default" />
       <updated>1696508893646</updated>
     </task>
+    <task id="LOCAL-00001" summary="Projeto_Finalizado">
+      <option name="closed" value="true" />
+      <created>1696525083135</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696525083135</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,10 +102,20 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Projeto_Finalizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Projeto_Finalizado" />
   </component>
 </project>
